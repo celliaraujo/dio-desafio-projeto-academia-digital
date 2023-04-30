@@ -13,6 +13,6 @@ Além do código original, onde foi feita a modelagem das entidades para uma aca
 
 e a dependencia do OpenApi para realização das requisições via browser.
 
-Quase muita tristeza, frustração e lançamento de toalha (rsrs) por, a princípio, não entender o que estava acontencendo no código e como as classes conversavam entre si. Porém, dando mais uma chance para o curso e para mim mesma, assistindo as aulas do desafio seguinte, minha mente emfim começou a se abrir para o que estava acontecendo, mesmo que aos 45 do 2º rsrs. Já não estou tão no escuro.
+Quase muita tristeza, frustração e lançamento de toalha (rsrs) por, a princípio, não entender o que estava acontencendo no código e como as classes conversavam entre si. Porém, dando mais uma chance para o curso e para mim mesma, assistindo as aulas do desafio seguinte, minha mente enfim começou a se abrir para o que estava acontecendo, mesmo que aos 45 do 2º rsrs. Já não estou tão no escuro.
 
 Este é o resultado! Com muito orgulho!
